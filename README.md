@@ -56,3 +56,8 @@ python <program name>
   https://drive.google.com/open?id=1lBuaw1kVRyB9td9FL8jtc5rHQtPOs6uJ
   
   Enter , and voila, just wait and see that the automation test running :)
+  
+  Note :
+  -testcase1.py is a simple test to show the automation is working
+  -testcase2.py is the No. 3 Answer, automation for demo.midtrans.com
+    sadly, the automation is not 100% completed, and I'm stuck in some element.
