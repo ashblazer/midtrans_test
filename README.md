@@ -11,10 +11,11 @@ Now, these are the tools that I use to do the automation test :
 2. Splinter for the automation,
 3. Using Selenium as the base
 
-Before we going into the automation test, we need to install python first, *you can skip this step if your PC already installed python*
-you can download the binary or windows config from here https://www.python.org/downloads/release/python-364/
+Before we going into the automation test, we need to install python first, **you can skip this step if your PC already installed python*
+
+You can download the binary or windows config from here https://www.python.org/downloads/release/python-364/
 *I'm using python 3.5.2*
-Just download the executable installer for the easy installation on Windows. *I'm a windows user*
+Just download the executable installer for the easy installation on Windows. **I'm a windows user*
 
 Now for the second step, we can install splinter and selenium at the same time
 *to begin this step you need to make sure, that you have already installed pip via python setup, if you don't have pip go here https://pip.pypa.io/en/stable/installing/*
