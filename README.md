@@ -31,20 +31,20 @@ Last step before you can run the automation test, you need to install the respec
 In this case, I'm using Chrome.
 here is the guide provided by splinter : http://splinter.readthedocs.io/en/latest/drivers/chrome.html
 
-If you are using windows, you need to assign the chromedriver to the system PATH
-*you can download the chromedriver from :https://sites.google.com/a/chromium.org/chromedriver/downloads*
+If you are using windows, you need to assign the chromedriver to the system PATH,
+#you can download the chromedriver from :https://sites.google.com/a/chromium.org/chromedriver/downloads#
 *If you do not know how to set up system PATH, you can look it up here :
-read here http://msdn.microsoft.com/en-us/library/ms682653.aspx
+read here http://msdn.microsoft.com/en-us/library/ms682653.aspx*
 OR
--Right Click on 'My Computer' 
--Select Advanced System Settings
--Click Environment Variables
--navigate to variable 'Path'
--Click Edit
--Click New
--Add the system path to your chromedriver installation path/folder
--Click OK
--Don't forget to restart your PC, so the changes take effect*
+1. Right Click on 'My Computer' 
+2. Select Advanced System Settings
+3. Click Environment Variables
+4. navigate to variable 'Path'
+5. Click Edit
+6. Click New
+7. Add the system path to your chromedriver installation path/folder
+8. Click OK
+9.Don't forget to restart your PC, so the changes take effect
 
 Now, you can run the code that I provide here, just download it to your computer
 navigate to the folder containing the code using cmd
@@ -58,6 +58,6 @@ python <program name>
   Enter , and voila, just wait and see that the automation test running :)
   
   Note :
-  -testcase1.py is a simple test to show the automation is working
-  -testcase2.py is the No. 3 Answer, automation for demo.midtrans.com
+  1. testcase1.py is a simple test to show the automation is working
+  2. testcase2.py is the No. 3 Answer, automation for demo.midtrans.com
     sadly, the automation is not 100% completed, and I'm stuck in some element.
