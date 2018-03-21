@@ -18,7 +18,7 @@ You can download the binary or windows config from here https://www.python.org/d
 Just download the executable installer for the easy installation on Windows. **I'm a windows user*
 
 Now for the second step, we can install splinter and selenium at the same time
-*to begin this step you need to make sure, that you have already installed pip via python setup, if you don't have pip go here https://pip.pypa.io/en/stable/installing/*
+*to begin this step you need to make sure, that you have already installed pip via python setup, if you don't have pip go here https://pip.pypa.io/en/stable/installing/ *
 
 you can follow the steps from here http://splinter.readthedocs.io/en/latest/install.html to install splinter
 *Or*
@@ -31,10 +31,10 @@ Last step before you can run the automation test, you need to install the respec
 In this case, I'm using Chrome.
 here is the guide provided by splinter : http://splinter.readthedocs.io/en/latest/drivers/chrome.html
 
-If you are using windows, you need to assign the chromedriver to the system PATH,
-#you can download the chromedriver from :https://sites.google.com/a/chromium.org/chromedriver/downloads#
-*If you do not know how to set up system PATH, you can look it up here :
-read here http://msdn.microsoft.com/en-us/library/ms682653.aspx*
+If you are using windows, you need to assign the chromedriver to the system PATH,<br>
+you can download the chromedriver from :https://sites.google.com/a/chromium.org/chromedriver/downloads</br>
+If you do not know how to set up system PATH, you can look it up here :
+read here http://msdn.microsoft.com/en-us/library/ms682653.aspx
 OR
 1. Right Click on 'My Computer' 
 2. Select Advanced System Settings
