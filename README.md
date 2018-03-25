@@ -61,3 +61,4 @@ python <program name>
   1. testcase1.py is a simple test to show the automation is working
   2. testcase2.py is the No. 3 Answer, automation for demo.midtrans.com
     sadly, the automation is not 100% completed, and I'm stuck in some element.
+    update 25/03/2018 : I have completed the assignment, It took me some time because I haven't been in web development for a long time by now, and I doesn't know about the iframes, but now the problem is solved 100%.
